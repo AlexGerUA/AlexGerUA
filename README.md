@@ -2,11 +2,11 @@
 
 Роблю саморобні пристрої на **ESP32 / ESP8266**: ретро-консоль, смарт-дисплей з погодою,
 квадрокоптер з керуванням геймпадом, міст для кондиціонерів TCL у Home Assistant.
-Усе — з повною прошивкою, схемами й інструкціями збирання.
+Більшість — з відкритим кодом, схемами й інструкціями збирання; міст TCL — готові прошивки з оновленням по повітрю.
 
 DIY hardware on **ESP32 / ESP8266**: a handheld retro console, a weather smart display,
 a gamepad-controlled drone, a TCL air-conditioner bridge for Home Assistant.
-Every project comes with full firmware, wiring diagrams and build notes.
+Most come with open source code, wiring diagrams and build notes; the TCL bridge ships as ready-made firmware with OTA updates.
 
 ## Проєкти / Projects
 
